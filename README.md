@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -14,8 +13,6 @@
           <p>i have 2 dogs</p>
         </td>
     </table>
-
-
     <hr>
     <h3>Education</h3>
     <ul>
@@ -24,7 +21,6 @@
       <li><a href="https://aavnc.rta.mi.th/index2.htm" target="_blank">Army Aviation Center</a></li>
       <li><a href="https://www.sunstateaviation.com/" target="_blank">Sunstate Aviation</a></li>
     </ul>
-
     <hr />
     <h3>Work experience</h3>
       <table cellspacing="10">
@@ -72,9 +68,6 @@
               <h4><a href="Hobbies.html">Hobbies</a></h4>
             </td>
           </tr>
-
-
-
        </table>
   </body>
-</html># cv1
+</html>
