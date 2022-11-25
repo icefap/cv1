@@ -1,7 +1,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>ice</title>
   </head>
   <body>
     <table cellspacing="20">
@@ -57,7 +57,6 @@
            <td>⭐</td>
          </tr>
        </table>
-
        <hr />
         <table>
           <tr>
